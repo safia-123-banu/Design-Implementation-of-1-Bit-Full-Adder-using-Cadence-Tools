@@ -1,4 +1,4 @@
-# Design-Implementation-of-1-Bit-Full-Adder-using-Cadence-Tools
+## EX NO:05 Design-Implementation-of-1-Bit-Full-Adder-using-Cadence-Tools
 
 
 Aim:
