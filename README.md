@@ -8,6 +8,11 @@ Tools Required:
 •	Personal Computer
 •	Cadence Virtuoso Software
 
+Circuit Diagram:
+
+![exp5 image](https://github.com/user-attachments/assets/9a742558-d432-49e2-91d7-843f48d3ac0d)
+
+
 S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
 
 1.	Right Click and open the terminal window
@@ -48,10 +53,15 @@ ii)	Create Schematic Cell view.
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
 
+
 ![Screenshot 2024-11-12 215805](https://github.com/user-attachments/assets/8db744e1-1e5e-44d0-87a1-ea2b313bb217)
 
 
+
+
 ![Screenshot 2024-11-12 220111](https://github.com/user-attachments/assets/8420428f-1e3f-41bd-abe2-c655185e5a10)
+
+
 
  
 iii)	Creating the Symbol for schematic Cell view
@@ -68,6 +78,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
+
  
 ![5th exp](https://github.com/user-attachments/assets/5fa69b71-4de9-4a1b-bfab-ebf46f456a2f)
 
@@ -82,6 +93,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
+
+
 ![IMG-20241019-WA0034](https://github.com/user-attachments/assets/08a8f278-00e2-44d9-8420-a3fcf0586a7e)
 
 
@@ -96,10 +109,14 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
+
+
 ![IMG-20241019-WA0033](https://github.com/user-attachments/assets/3f603cf1-7394-4561-ae07-fbe55615e8be)
 
 
 For Transient Analysis Settings and Output
+
+
  
 ![IMG-20241019-WA0040](https://github.com/user-attachments/assets/384f880f-a1e4-4afa-8302-d7667c2f535b)
 
